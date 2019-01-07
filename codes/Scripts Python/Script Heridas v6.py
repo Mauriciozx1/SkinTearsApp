@@ -4,7 +4,6 @@ from skimage import data, io, filters
 from PIL import Image, ImageFilter
 
 
-
 #     Capturo la imagen Original
 inputImage = cv2.imread('00053.jpg')
 
@@ -65,9 +64,6 @@ invImgBoolExpDim = np.expand_dims(invImgBool, axis=2)
 #     Ejecutaba con error si convertia la imagen original redimensionada a np.bool
 finalimage = invImgBoolExpDim * resizedImage
 cv2.imshow('6.- Imagen Final', finalimage)
-
-
-
 
 
 

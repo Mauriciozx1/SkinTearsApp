@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
-from skimage import data, io, filters
-from PIL import Image, ImageFilter
+#from skimage import data, io, filters
+#from PIL import Image, ImageFilter
 
 
 
@@ -34,25 +34,50 @@ t, binaryImage = cv2.threshold(grayImage, 0, 255, cv2.THRESH_BINARY  | cv2.THRES
 cv2.imshow('4.- Imagen Binaria', binaryImage)
 
 
+#     Elimiar el ruido blanco sobre las zonas negras
+#Crear un kernel de '1' de 3x3
+kernel = np.ones((3,3),np.uint8)
+#Se aplica la transformacion: Opening
+binaryImage = cv2.morphologyEx(binaryImage,cv2.MORPH_OPEN,kernel)
 
 
 
-
+"""
 # OJO CON ESTOS FILTROS
 binaryImage = cv2.medianBlur(binaryImage,11) # al aumentar me redondea mucho el contorno final
 kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, 1))
 binaryImage = cv2.morphologyEx(binaryImage, cv2.MORPH_CLOSE, kernel)
 binaryImage = cv2.morphologyEx(binaryImage, cv2.MORPH_OPEN, kernel)
-
-
-
-
-
+"""
 
 
 #     Invierto los colores de la imagen Binaria
 binaryImageInv = cv2.bitwise_not(binaryImage)
 cv2.imshow('5.- Imagen Binaria Invertida', binaryImageInv)
+
+
+
+
+#     Eliminar el ruido negro sobre las zonas blancas
+#Crear un kernel de '1' de 3x3
+kernel = np.ones((7,7),np.uint8)
+#Se aplica la transformacion: Closing
+binaryImageInv = cv2.morphologyEx(binaryImageInv,cv2.MORPH_CLOSE,kernel)
+
+
+
+
+"""
+#Crear un kernel de '1' de 3x3
+kernel = np.ones((5,5),np.uint8)
+#Se aplica la transformacion: Dilate
+binaryImageInv = cv2.dilate(binaryImageInv,kernel,iterations = 5)
+"""
+
+
+
+
+
 
 #     Convierto imagenes de tipo uint8 a bool 
 resImgBool = resizedImage.astype(np.bool)
@@ -65,11 +90,6 @@ invImgBoolExpDim = np.expand_dims(invImgBool, axis=2)
 #     Ejecutaba con error si convertia la imagen original redimensionada a np.bool
 finalimage = invImgBoolExpDim * resizedImage
 cv2.imshow('6.- Imagen Final', finalimage)
-
-
-
-
-
 
 
 
