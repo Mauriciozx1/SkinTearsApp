@@ -1,1 +1,4 @@
+Sistema educativo con capacidad de reconocimiento de heridas, como método de apoyo a su clasificación.
+
+La Aplicacion desarrollada en Android Studio, en estos momentos tiene implementado un módulo educativo de preguntas, las cuales son del tipo selección multiple, además va guardando el estado de las preguntas.
 
