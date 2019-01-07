@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name" translatable="false">Memo Qué?</string>
+    <string name="app_name" translatable="false">Skin Tears</string>
     <string name="question">Pregunta</string>
     <string name="check">Listo</string>
     <string name="correct">Muy bien!!!</string>
-    <string name="incorrect">Incorrecto...</string>
+    <string name="incorrect">Incorrecto . . .</string>
     <string name="next">Siguiente</string>
     <string name="finish">Terminar</string>
     <string name="prev">Anterior</string>
@@ -11,13 +11,10 @@
     <string name="start_over">Comenzar otra vez</string>
 
     <array name="all_questions">
-        <item>¿Cuantás regiones tiene Chile?;13;14;15;*16</item>
-        <item>¿Cuál es la Capital de Chile?; Arica;Coquimbo;Concepción;*Santiago</item>
-        <item>¿Apellido del Presidente actual de Chile?;Allende;Pinochet;*Piñera;Bachellet</item>
-        <item>¿Cuál fue la ubicación geográfica de la civilización Azteca?;Canada;*México;Argentina;Cuba</item>
-        <item>¿Cuál fue la ubicación geográfica de la civilización Inca?;*Perú;Argentina;España;Cuba</item>
-        <item>¿Como se llamaba el dios de los Mayas?;Quetzalcoatl;Inti;Neptuno;*Hunab Ku</item>
-        <item>¿EL Imperio Inca mantenía una comunicación entre sus regiones, esto se debía gracias a:?;Camino real;*Chasqui;Gobernante;Autopistas</item>
+        <item>¿Cuantos tipos de clasificaciones de heridas Skin Tears existen?;1;2;*3;4</item>
+        <item>¿La tasa de prevalencia de heridas Skin Tears puede ser mayor o igual que las ulceras de presion?;*Verdadero;Falso;Ninguna;alternativa b y c</item>
+        <item>¿En que año Skin Tears Expert Panel define las directrices sobre Skin Tears?;2010;*2011;2012;2013</item>
+        <item>¿Que grupo de personas son las mas afectadas por este tipo de heridas?;Ninos;Jovenes;Adultos;*Adultos mayores</item>
 
     </array>
 

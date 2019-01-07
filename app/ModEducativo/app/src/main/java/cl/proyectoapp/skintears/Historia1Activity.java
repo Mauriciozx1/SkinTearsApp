@@ -1,4 +1,4 @@
-package cl.proyectoapp.memoque;
+package cl.proyectoapp.skintears;
 
 import android.content.DialogInterface;
 import android.support.v7.app.AlertDialog;

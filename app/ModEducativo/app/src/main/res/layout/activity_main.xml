@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Bienvenido a Memo Que"
+        android:text="Bienvenido a Skin Tears App"
         android:textSize="25sp" />
 
     <ImageView
@@ -20,7 +20,7 @@
         android:layout_height="344dp"
         android:layout_gravity="center_horizontal"
         android:layout_weight="2"
-        app:srcCompat="@drawable/fondomemoque" />
+        app:srcCompat="@drawable/fondoskintears" />
 
     <Button
         android:id="@+id/btningresar"

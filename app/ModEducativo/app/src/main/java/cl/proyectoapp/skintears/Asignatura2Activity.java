@@ -1,4 +1,4 @@
-package cl.proyectoapp.memoque;
+package cl.proyectoapp.skintears;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

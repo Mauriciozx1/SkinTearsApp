@@ -1,4 +1,4 @@
-package cl.proyectoapp.memoque;
+package cl.proyectoapp.skintears;
 
 import org.junit.Test;
 

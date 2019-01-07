@@ -1,4 +1,4 @@
-package cl.proyectoapp.memoque;
+package cl.proyectoapp.skintears;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,26 +6,25 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
+public class Asignatura1Activity extends AppCompatActivity {
 
+    private Button Historia1Button;
 
-    private Button activityButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_asignatura1);
 
 
 
+        Historia1Button = (Button) findViewById(R.id.btnHistoria1);
 
-        activityButton = (Button) findViewById(R.id.btningresar);
-
-        activityButton.setOnClickListener(new View.OnClickListener() {
+        Historia1Button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                Intent intent = new Intent(MainActivity.this,NivelActivity.class);
+                Intent intent = new Intent(Asignatura1Activity.this,Historia1Activity.class);
                 startActivity(intent);
             }
         });

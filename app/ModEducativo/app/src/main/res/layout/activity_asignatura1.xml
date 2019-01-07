@@ -11,37 +11,37 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="8-9 > Seleccione una asignatura"
+        android:text="Seleccione una opcion>"
         android:textAllCaps="false"
         android:textSize="25sp" />
 
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Historia"
         android:id="@+id/btnHistoria1"
-        android:textAllCaps="false"
-        android:textSize="25sp"
-        android:layout_weight="2" />
-
-    <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lenguaje"
+        android:layout_weight="2"
+        android:text="Evaluaciones"
+        android:textAllCaps="false"
+        android:textSize="25sp" />
+
+    <Button
         android:id="@+id/btnLenguaje1"
-        android:textAllCaps="false"
-        android:textSize="25sp"
-        android:layout_weight="2" />
-
-    <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Matemáticas"
-        android:id="@+id/btnmatematica1"
+        android:layout_weight="2"
+        android:text="Materia"
         android:textAllCaps="false"
-        android:textSize="25sp"
-        android:layout_weight="2" />
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btnmatematica1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="Tratamientos"
+        android:textAllCaps="false"
+        android:textSize="25sp" />
 
 
 
