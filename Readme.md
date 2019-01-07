@@ -73,7 +73,7 @@ En la carpeta src, estan almacenadas las diferentes versiones de scripts desarro
 
  10. Instalar un módulo de scikit-learn.
    
-    pip install -U scikit-image
+     pip install -U scikit-image
 
  11. Para verificar los pqeuetes que fueron instalados con pip en windows.
 
@@ -85,7 +85,7 @@ En la carpeta src, estan almacenadas las diferentes versiones de scripts desarro
 
 ### Continuando la configuración del entorno de desarrollo.
 
-- Busque en la carpeta scr el archivo "Script Heridas v10 separa la herida en multiples archivos.py", luego con el botón derecho del mouse seleccione Edit with IDLE, para que vea el contenido del archivo, debería poder ver claramente 2 funciones readImages() y loadSaveImages().
+- Busque en la carpeta src el archivo "Script Heridas v10 separa la herida en multiples archivos.py", luego con el botón derecho del mouse seleccione Edit with IDLE, para que vea el contenido del archivo, debería poder ver claramente 2 funciones readImages() y loadSaveImages().
 
 ### Función readImages()
 
