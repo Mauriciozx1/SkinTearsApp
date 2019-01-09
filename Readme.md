@@ -54,12 +54,12 @@
 
   1. Descargar OpenCV.
 
-    [OpenCV] (https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.1.0/opencv-3.1.0.exe/download)
+    [OpenCV](https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.1.0/opencv-3.1.0.exe/download)
 
     Descargar Python:
 
-    * [64 bits:] (https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi)
-    * [32 bits:] (https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi)
+    * [64 bits:](https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi)
+    * [32 bits:](https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi)
 
   2. Una vez instalado Python y OpenCV, ingresar al directorio.
 
