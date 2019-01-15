@@ -24,7 +24,7 @@ Para instalar la versión de prueba ejecute el siguiente comando.
 
 ## MONTAJE DEL ENTORNO DE DESARROLLO PARA IMPLEMENTAR EL RECONOCIMIENTO DE HERIDAS.
 
-En la carpeta src del propyecto, están almacenadas las diferentes versiones de scripts desarrollados en Python, los cuales básicamente en su versión 10 realiza las siguientes acciones:
+En la carpeta src del proyecto, están almacenadas las diferentes versiones de scripts desarrollados en Python, los cuales básicamente en su versión 10 realiza las siguientes acciones:
 
 ### Función readImages()
 
@@ -50,7 +50,9 @@ El proceso anterior se repite una cantidad de veces definida en el ciclo for, el
 
 Todo el proceso explicado anteriormente se genera con el propósito de poder generar Dataset (matrices de datos) y posteriormente poder clasificar las imágenes, de acuerdo a algoritmos y predicciones que nos provee scikit-learn.
 
-### Para usar el script programado en lenguaje Python, debe instalar lo siguiente:
+## INSTALACIÓN DEL ENTORNO DE DESARROLLO.
+
+### OPCIÓN 1
 
 1. Descargar OpenCV.
 
@@ -112,6 +114,29 @@ python -m pip install matplotlib
 12. Como prueba rápida, para verificar que python este bien instalado, desde la consola de windows ejecute lo siguiente.
 
 `python --version`
+
+### OPCIÓN 2
+
+Existe una forma más fácil, de implementar el entorno de desarrollo.
+
+#### Para Sistema Operativo MacOS
+
+- Instalar Anaconda, debes elegir la versión de Python, para este proyecto se trabajo con 2.7
+[Anaconda] (https://www.anaconda.com/download/#macos)
+
+- Abrir spider
+
+- Abrir el terminal de Mac
+
+* Ejecutar el siguiente comando para Instalar PIP.
+`easy_install pip`
+
+* Ejecutar el siguiente comando para instalar OpenCV.
+`pip install opencv-contrib-python`
+
+* Ejecutar el siguiente comando para instalar Scikit learn
+`pip install -U scikit-learn`
+
 
 ### Continuando la configuración del entorno de desarrollo.
 
