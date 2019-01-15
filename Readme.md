@@ -122,23 +122,28 @@ Existe una forma más fácil, de implementar el entorno de desarrollo.
 #### Para Sistema Operativo MacOS
 
 - Instalar Anaconda, debes elegir la versión de Python, para este proyecto se trabajo con 2.7
-[Anaconda] (https://www.anaconda.com/download/#macos)
+[Anaconda](https://www.anaconda.com/download/#macos)
 
 - Abrir spider
 
 - Abrir el terminal de Mac
 
 * Ejecutar el siguiente comando para Instalar PIP.
+
 `easy_install pip`
 
 * Ejecutar el siguiente comando para instalar OpenCV.
+
 `pip install opencv-contrib-python`
 
 * Ejecutar el siguiente comando para instalar Scikit learn
+
 `pip install -U scikit-learn`
 
 
 ### Continuando la configuración del entorno de desarrollo.
+
+Una vez instalado Python, OpenCV y Scikit-learn, realizamos lo siguiente:
 
 - Busque en la carpeta src el archivo "Script Heridas v10 separa la herida en multiples archivos.py", luego con el botón derecho del mouse seleccione Edit with IDLE, para que vea el contenido del archivo, debería poder ver claramente 2 funciones readImages() y loadSaveImages().
 
