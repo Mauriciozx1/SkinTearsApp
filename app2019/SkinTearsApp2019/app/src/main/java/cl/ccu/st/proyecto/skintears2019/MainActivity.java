@@ -22,8 +22,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final Object MY_REQUEST_CODE = 7772019; // cualquier numero
+    private static final int MY_REQUEST_CODE = 1891; //cualquier numero
     List<AuthUI.IdpConfig> providers;
+    Button btn_sign_out;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,18 +43,16 @@ public class MainActivity extends AppCompatActivity {
                             public void onComplete(@NonNull Task<Void> task) {
                                 btn_sign_out.setEnabled(false);
                                 showSignInOptions();
-
                             }
                         }).addOnFailureListener(new OnFailureListener() {
                     @Override
                     public void onFailure(@NonNull Exception e) {
-                        Toast.makeText(MainActivity.this, ""+e.getMessage(),Toast.LENGTH_SHORT).show();
-
+                        Toast.makeText(MainActivity.this, ""+e.getMessage(), Toast.LENGTH_SHORT).show();
                     }
                 });
             }
-
         });
+
 
         //Init provider
         providers = Arrays.asList(
@@ -66,7 +65,8 @@ public class MainActivity extends AppCompatActivity {
         showSignInOptions();
     }
 
-    private void showSignInOptions(){
+
+    private void showSignInOptions() {
         startActivityForResult(
                 AuthUI.getInstance().createSignInIntentBuilder()
                 .setAvailableProviders(providers)
@@ -99,4 +99,5 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 }
