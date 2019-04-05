@@ -16,13 +16,16 @@ import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+//import com.facebook.FacebookSdk;
+//import com.facebook.appevents.AppEventsLogger;
+
 
 import java.util.Arrays;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int MY_REQUEST_CODE = 1891; //cualquier numero
+    private static final int MY_REQUEST_CODE = 7117; //cualquier numero
     List<AuthUI.IdpConfig> providers;
     Button btn_sign_out;
 
@@ -70,9 +73,10 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(
                 AuthUI.getInstance().createSignInIntentBuilder()
                 .setAvailableProviders(providers)
+                .setLogo(R.drawable.skin_tears_logo)
                 .setTheme(R.style.MyTheme)
-                .build(),MY_REQUEST_CODE
-        );
+                .build(),MY_REQUEST_CODE);
+
 
     }
 
@@ -91,8 +95,7 @@ public class MainActivity extends AppCompatActivity {
                 // Set Button signout
                 btn_sign_out.setEnabled(true);
             }
-            else
-            {
+            else {
                 Toast.makeText(this, ""+response.getError().getMessage(), Toast.LENGTH_SHORT).show();
             }
         }
