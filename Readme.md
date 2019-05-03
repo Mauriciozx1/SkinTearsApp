@@ -184,3 +184,6 @@ git clone https://github.com/claudiocu81/SkinTearsApp.git
 
 - Click en subir la imagen, puede agregar un comentario, esto es opocional.
 
+
+![](ModuloSubirImagen.gif)
+
