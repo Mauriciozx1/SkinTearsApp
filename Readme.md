@@ -148,3 +148,39 @@ Una vez instalado Python, OpenCV y Scikit-learn, realizamos lo siguiente:
 - Busque en la carpeta src el archivo "Script Heridas v10 separa la herida en multiples archivos.py", luego con el botón derecho del mouse seleccione Edit with IDLE, para que vea el contenido del archivo, debería poder ver claramente 2 funciones readImages() y loadSaveImages().
 
 - Verifique el directorio de la ruta de las imagenes de origen y destino, así como la cantidad de imagenes para que las ajuste en el ciclo for.
+
+
+## FUNCIONAMIENTO DEL MÓDULO SUBIR ARCHIVO:
+
+### INSTALACIÓN DE LA APLICACIÓN.
+
+- Puede clonar el repositorio de este GitHub, con el siguiente comando:
+
+git clone https://github.com/claudiocu81/SkinTearsApp.git 
+
+- Luego importar el proyecto que esta en la carpeta (SkinTearsApp2019 sube imagen) a Android Studio la versión utilizada es la 3.4 para Mac.
+
+- Instalar desde Android Studio la aplicación en el Smartphone de su elección, hagalo desde Android Virtual device Manager (AVD Manager), seleccione su dispositivo, espere a que se instale y se abra la aplicación y a disfrutar.
+
+### USO DE LA APLICACIÓN.
+
+- Abra la aplicación.
+
+- Haga click en el icono de menú o deslice el dedo por la pantalla desde izquierda a derecha, para que aparezca el menú.
+
+- Click en la opción Reconocimiento.
+
+- Click en iniciar procedimiento.
+
+- Click en activar cámara.
+
+- Capture la imagen.
+
+- Acepte la imagen o rechacela, tome une nueva, cuando este satisfecho aceptela.
+
+- Click en subir la imagen.
+
+- Click en elegir la imagen, seleccione la imagen capturada.
+
+- Click en subir la imagen, puede agregar un comentario, esto es opocional.
+
