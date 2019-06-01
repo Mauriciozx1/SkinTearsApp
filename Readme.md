@@ -187,3 +187,19 @@ git clone https://github.com/claudiocu81/SkinTearsApp.git
 
 ![](ModuloSubirImagen.gif)
 
+
+## Módulo Evaluaciones OK
+
+Este Módulo implementa una BD SQLite, la cual contiene 63 preguntas que forman 3 tipos de preguntaas, estas pueden ser:
+
+- Pregunta texto respuesta imagen.
+- Pregunta imagen respuesta texto.
+- Pregunta texto respuesta texto.
+
+Se generan 10 preguntas seleccionadas aleatoriamente de la BD, además las respuestas también cambian de orden.
+
+Si el usuario se equivoca pierde 1 punto.
+
+Al finalizar la evaluación se entrega el resultado final al usuario
+
+![](ModuloEvaluacion.gif)
