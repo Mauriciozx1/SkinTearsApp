@@ -1,0 +1,34 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="copyright">Copyright © Claudio Cabrera</string>
+
+    <string name="Version">Version 1.0 (c) Skin Tears App</string>
+    <string name="app_name">Skin Tears</string>
+    <string name="menu_inicial">Menú Inicial</string>
+    <string name="jugar">Iniciar Evaluación</string>
+    <string name="resultados">Último Resultado</string>
+    <string name="volver">Volver</string>
+    <string name="bienvenida">\Módulo de Evaluaciones, \n\nCompruebe cuanto sabe de Skin Tears...</string>
+    <string name="resultado">\¿Intentelo nuevamente? \n\nEn su última evaluación su puntuación fue: </string>
+
+    <string name="welcome_text">
+        <br>En esta aplicación podrá:\n\n</br>
+        <br>- Aprender sobre las heridas Skin Tears.\n</br>
+        <br>- Conocer los tratamientos recomendados.\n</br>
+        <br>- Evaluar lo aprendido.\n</br>
+        <br>- Reconocer heridas mediante reconocimiento de imágenes.</br>
+    </string>
+
+    <string name="recognize_text">
+        <br>Procedimiento para reconocer heridas:\n\n</br>
+        <br>1.- Haga click en el botón Iniciar Procedimiento.\n</br>
+        <br>2.- Click en el botón activar cámara.\n</br>
+        <br>3.- Tome la fotografía, luego descartela o aceptela.\n</br>
+        <br>4.- Envíe la imagen.</br>
+    </string>
+    <string name="pregunta">PREGUNTA</string>
+
+</resources>
+
