@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:38:13-47
+	android:authorities
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:35:13-67
+manifest
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1210dae3aa687df29a4bd0d34cb270d3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a26da53fe5300d041383eea5f59d584f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/6c79a942f6f7510d815aae40ee5fdd1f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a6ac41613a283df25510afc7a34a7ec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/378d35d07b898e144f8592400afba5eb/AndroidManifest.xml:2:1-11:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/aeb85304add253482f76defc6404e59b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/51b227fdd5fea9d521294802600d2c57/AndroidManifest.xml:1:70-7:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9f782d94658e20e997997091e8424941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/308394a21696f0b05481b5582dfabf76/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/09f574db909afe7d5a8ab2dde4079f72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/c643334ee0ecf62cd6e6593d634dcc30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/5aabf0480e108761a2d736cf4f7f8cd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/25cdb9fce913f52216d583ddd7ad0a4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/b3d66724a145e2de45ba246d0579d6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/93c6456d8f78817668bc2e6b4d10e424/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/de2d9e7eb3a96b0719b4f83881a813df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/240bf372f61f457e976b89f3f3f07d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9506b3f48c96bd84ff768f230aa52076/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a9f6283cfb31f1eef196e0f25a499443/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/250b63613c12db87c1374910316ef00a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/54ad55ae1e99dc88a8356821d9a6d34b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1ce6f1e8e36f2d6b6a29ed14ad24c422/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/50ab1726bff5242e51c2f2858416d230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9b56b177970fdb372245167bb807a0d0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3edbfe39ee1edaa8f6897c4c57486193/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d24b08c0ad9ea59cc1236ec1ea190476/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/7bf545223ad6edeb7f43cf3b78280259/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/2825756243114213ccf158f8008d1b38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1be3f65848c2b23227c43077222d79d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/01f17ea81441825b3e64134e3cabdb5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/ee0e5fc39cec1dc488b8ab46f3928b1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d22136e41b72b26fb0502469024dae82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3cef4d811208e7b5299cc5ba8d609999/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d4701e5be1aec5e488c7cd32ed466d3a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/923361a05b6dc8b703639d64f4a84a3e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:1-46:12
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:9:9-47
+application
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:12:5-44:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a26da53fe5300d041383eea5f59d584f/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a26da53fe5300d041383eea5f59d584f/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/6c79a942f6f7510d815aae40ee5fdd1f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/6c79a942f6f7510d815aae40ee5fdd1f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/378d35d07b898e144f8592400afba5eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/378d35d07b898e144f8592400afba5eb/AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/51b227fdd5fea9d521294802600d2c57/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/51b227fdd5fea9d521294802600d2c57/AndroidManifest.xml:5:5-19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/308394a21696f0b05481b5582dfabf76/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/308394a21696f0b05481b5582dfabf76/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9b56b177970fdb372245167bb807a0d0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9b56b177970fdb372245167bb807a0d0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:16:9-65
+	android:icon
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:18:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:19:9-69
+uses-library#org.apache.http.legacy
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:21:9-88
+	android:required
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:21:23-60
+activity#com.ccu.skintears.activity.SubirImagenActivity
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:23:9-92
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:23:19-80
+activity#com.ccu.skintears.activity.CameraActivity
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:24:9-78
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:24:19-75
+activity#com.ccu.skintears.MainActivity
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:26:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1210dae3aa687df29a4bd0d34cb270d3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1210dae3aa687df29a4bd0d34cb270d3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a26da53fe5300d041383eea5f59d584f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a26da53fe5300d041383eea5f59d584f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/6c79a942f6f7510d815aae40ee5fdd1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/6c79a942f6f7510d815aae40ee5fdd1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a6ac41613a283df25510afc7a34a7ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a6ac41613a283df25510afc7a34a7ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/378d35d07b898e144f8592400afba5eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/378d35d07b898e144f8592400afba5eb/AndroidManifest.xml:5:5-7:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/aeb85304add253482f76defc6404e59b/AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/aeb85304add253482f76defc6404e59b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/51b227fdd5fea9d521294802600d2c57/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/51b227fdd5fea9d521294802600d2c57/AndroidManifest.xml:3:5-72
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9f782d94658e20e997997091e8424941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9f782d94658e20e997997091e8424941/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/308394a21696f0b05481b5582dfabf76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/308394a21696f0b05481b5582dfabf76/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/09f574db909afe7d5a8ab2dde4079f72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/09f574db909afe7d5a8ab2dde4079f72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/c643334ee0ecf62cd6e6593d634dcc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/c643334ee0ecf62cd6e6593d634dcc30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/5aabf0480e108761a2d736cf4f7f8cd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/5aabf0480e108761a2d736cf4f7f8cd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/25cdb9fce913f52216d583ddd7ad0a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/25cdb9fce913f52216d583ddd7ad0a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/b3d66724a145e2de45ba246d0579d6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/b3d66724a145e2de45ba246d0579d6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/93c6456d8f78817668bc2e6b4d10e424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/93c6456d8f78817668bc2e6b4d10e424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/de2d9e7eb3a96b0719b4f83881a813df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/de2d9e7eb3a96b0719b4f83881a813df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/240bf372f61f457e976b89f3f3f07d5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/240bf372f61f457e976b89f3f3f07d5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9506b3f48c96bd84ff768f230aa52076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9506b3f48c96bd84ff768f230aa52076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a9f6283cfb31f1eef196e0f25a499443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/a9f6283cfb31f1eef196e0f25a499443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/250b63613c12db87c1374910316ef00a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/250b63613c12db87c1374910316ef00a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/54ad55ae1e99dc88a8356821d9a6d34b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/54ad55ae1e99dc88a8356821d9a6d34b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1ce6f1e8e36f2d6b6a29ed14ad24c422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1ce6f1e8e36f2d6b6a29ed14ad24c422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/50ab1726bff5242e51c2f2858416d230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/50ab1726bff5242e51c2f2858416d230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/16633927346c7ec1632ee805afcbf3eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9b56b177970fdb372245167bb807a0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/9b56b177970fdb372245167bb807a0d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3edbfe39ee1edaa8f6897c4c57486193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3edbfe39ee1edaa8f6897c4c57486193/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d24b08c0ad9ea59cc1236ec1ea190476/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d24b08c0ad9ea59cc1236ec1ea190476/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/7bf545223ad6edeb7f43cf3b78280259/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/7bf545223ad6edeb7f43cf3b78280259/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/2825756243114213ccf158f8008d1b38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/2825756243114213ccf158f8008d1b38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1be3f65848c2b23227c43077222d79d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/1be3f65848c2b23227c43077222d79d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/01f17ea81441825b3e64134e3cabdb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/01f17ea81441825b3e64134e3cabdb5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/ee0e5fc39cec1dc488b8ab46f3928b1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/ee0e5fc39cec1dc488b8ab46f3928b1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d22136e41b72b26fb0502469024dae82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d22136e41b72b26fb0502469024dae82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3cef4d811208e7b5299cc5ba8d609999/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/3cef4d811208e7b5299cc5ba8d609999/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d4701e5be1aec5e488c7cd32ed466d3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/d4701e5be1aec5e488c7cd32ed466d3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/923361a05b6dc8b703639d64f4a84a3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Elliot/.gradle/caches/transforms-2/files-2.1/923361a05b6dc8b703639d64f4a84a3e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:39:13-41:58
+	android:resource
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:41:17-55
+	android:name
+		ADDED from /Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/src/main/AndroidManifest.xml:40:17-67

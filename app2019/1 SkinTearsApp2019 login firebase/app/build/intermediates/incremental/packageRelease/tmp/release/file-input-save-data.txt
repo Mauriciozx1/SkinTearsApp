@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Apr 05 12:45:40 CLST 2019
+1.base=/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/SkinTearsApp2019/app/build/intermediates/merged_assets/release/mergeReleaseAssets/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/SkinTearsApp2019/app/build/intermediates/dex/release/mergeDexRelease/out
+1.path=crashlytics-build.properties

@@ -1,0 +1,4 @@
+#Thu May 02 13:18:01 CLST 2019
+base.0=/Users/Elliot/Documents/GitHub/Ejemplos Android/Backup Funciona USAR/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

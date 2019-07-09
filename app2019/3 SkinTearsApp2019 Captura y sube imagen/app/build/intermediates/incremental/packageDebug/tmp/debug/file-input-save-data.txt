@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Jun 30 16:36:00 CLT 2019
+1.base=/Users/Elliot/Desktop/RESPALDO APP SKIN TEARS/2 SkinTearsApp2019 Captura y sube imagen BUENA/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=sample.pdf
+0.set=ASSET
+0.base=/Users/Elliot/Desktop/RESPALDO APP SKIN TEARS/2 SkinTearsApp2019 Captura y sube imagen BUENA/app/build/intermediates/merged_assets/debug/out
+1.path=classes.dex

@@ -1,0 +1,7 @@
+#Sat Apr 20 16:05:58 CLST 2019
+base.0=/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/SkinTearsApp2019/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/SkinTearsApp2019/app/build/intermediates/dex/debug/mergeExtDexDebug/out

@@ -1,0 +1,4 @@
+#Sun Jun 02 21:08:12 CLT 2019
+base.0=/Users/Elliot/Desktop/RESPALDO APP SKIN TEARS/2 SkinTearsApp2019 Captura y sube imagen/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+path.0=classes.dex
+renamed.0=classes.dex

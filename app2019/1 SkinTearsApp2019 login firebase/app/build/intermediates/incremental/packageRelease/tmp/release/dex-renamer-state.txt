@@ -1,0 +1,4 @@
+#Fri Apr 05 12:45:39 CLST 2019
+base.0=/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/SkinTearsApp2019/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

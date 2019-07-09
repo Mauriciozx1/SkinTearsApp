@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jun 02 20:45:28 CLT 2019
+0.baseType=DIRECTORY
+0.base=/Users/Elliot/Desktop/RESPALDO APP SKIN TEARS/2 SkinTearsApp2019 Captura y sube imagen/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-pdf-viewer</string>
+    <declare-styleable name="PDFViewPager">
+    <attr format="enum" name="swipe_orientation">
+        <enum name="horizontal" value="0"/>
+        <enum name="vertical" value="1"/>
+    </attr>
+</declare-styleable>
+</resources>
