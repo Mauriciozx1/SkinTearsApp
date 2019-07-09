@@ -3,9 +3,6 @@ package com.ccu.skintears.navigationdrawer;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * Created by miki on 7/7/17.
- */
 
 public class SubTitle implements Parcelable{
     private String name;

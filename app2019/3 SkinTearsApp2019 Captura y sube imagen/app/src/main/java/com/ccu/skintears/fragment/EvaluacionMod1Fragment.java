@@ -45,7 +45,7 @@ public class EvaluacionMod1Fragment extends Fragment {
             }
         });
 
-/*
+
         Button btnResultados = view.findViewById(R.id.btnResultados);
         btnResultados.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -56,7 +56,7 @@ public class EvaluacionMod1Fragment extends Fragment {
             }
         });
 
-*/
+
 
 
 

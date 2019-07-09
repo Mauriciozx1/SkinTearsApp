@@ -6,9 +6,6 @@ import android.widget.TextView;
 import com.ccu.skintears.R;
 import com.thoughtbot.expandablerecyclerview.viewholders.ChildViewHolder;
 
-/**
- * Created by miki on 7/7/17.
- */
 
 public class SubTitleViewHolder extends ChildViewHolder {
     private TextView subTitleTextView;

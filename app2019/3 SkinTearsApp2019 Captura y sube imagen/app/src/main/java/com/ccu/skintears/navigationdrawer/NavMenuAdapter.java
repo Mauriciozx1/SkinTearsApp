@@ -15,9 +15,6 @@ import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by miki on 7/7/17.
- */
 
 public class NavMenuAdapter extends ExpandableRecyclerViewAdapter<TitleViewHolder, SubTitleViewHolder> {
     private Context context;

@@ -23,7 +23,7 @@ import java.util.Stack;
 
 public class PreguntasEvaluacion extends Activity implements View.OnClickListener {
 
-    public final static int NUM_PREGUNTA = 10;
+    public final static int NUM_PREGUNTA = 5 ;
     private final static String COL_BOTON = "#778899";
 
     private int puntuacion;

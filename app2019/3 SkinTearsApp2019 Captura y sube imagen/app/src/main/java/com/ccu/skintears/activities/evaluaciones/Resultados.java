@@ -6,9 +6,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
 import com.ccu.skintears.R;
 
+
+/*RESULTADOS AL FINALIZAR LA EVALUACION*/
 
 public class Resultados extends Activity implements View.OnClickListener {
     private Utilidad utilidad;
@@ -20,7 +21,7 @@ public class Resultados extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.evaluacion_resultados);
 
-        this.btnVolver = (Button) this.findViewById(R.id._btnVolver);
+        this.btnVolver = (Button) this.findViewById(R.id.btnVolverActResGuardados);
         this.utilidad = (Utilidad) getApplicationContext();
         this.txtResultados = (TextView) this.findViewById(R.id.txtResultados);
         this.txtResultados.setText(this.txtResultados.getText() + " \n\n" + Integer.toString(this.utilidad.getPuntuacion()) + " puntos.");
@@ -29,8 +30,14 @@ public class Resultados extends Activity implements View.OnClickListener {
 
     @Override
     public void onClick(View view) {
-        if (view.getId() == R.id._btnVolver) {
+        if (view.getId() == R.id.btnVolverActResGuardados) {
             this.startActivity(new Intent(Resultados.this, MenuEvaluacion.class));
         }
     }
 }
+
+
+
+
+
+

@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import android.support.v4.app.Fragment;
 
-/**
- * Created by miki on 7/8/17.
- */
 
 public class NavMenuModel {
     public String menuTitle;

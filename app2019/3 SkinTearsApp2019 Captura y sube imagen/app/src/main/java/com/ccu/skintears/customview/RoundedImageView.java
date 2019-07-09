@@ -13,10 +13,6 @@ import android.graphics.drawable.Drawable;
 import android.support.v7.widget.AppCompatImageView;
 import android.util.AttributeSet;
 
-/**
- *  Created by yusuf on 3/15/17.
- */
-
 public class RoundedImageView extends AppCompatImageView {
 
     public RoundedImageView(Context context) {

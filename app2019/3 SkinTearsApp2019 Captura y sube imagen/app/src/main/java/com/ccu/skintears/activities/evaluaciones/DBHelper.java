@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 
 public class DBHelper extends SQLiteOpenHelper {
-    public static final String NOM_DB = "Preguntas2019"; // Si agrega preguntas en la BD cambie este nombre
+    public static final String NOM_DB = "Preguntas2019v1000"; // Si agrega preguntas en la BD cambie este nombre
     public static final int DB_VERSION = 1;
 
     protected SQLiteDatabase DBLite;

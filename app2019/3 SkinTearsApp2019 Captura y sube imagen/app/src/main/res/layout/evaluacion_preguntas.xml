@@ -7,9 +7,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:fitsSystemWindows="true"
-    android:theme="@style/AppTheme.AppBarOverlay"
-    tools:openDrawer="start"
     tools:context=".activities.evaluaciones.PreguntasEvaluacion">
 
 
@@ -20,7 +17,8 @@
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:weightSum="1">
 
         <LinearLayout
             android:id="@+id/layout_texto"
@@ -43,8 +41,8 @@
 
         <GridLayout
             android:id="@+id/layout_respuestas"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
             android:layout_gravity="center_horizontal"
             android:columnCount="1"
             android:orientation="horizontal"
@@ -52,12 +50,11 @@
 
             <ImageView
                 android:id="@+id/imgPregunta"
-                android:layout_width="match_parent"
+                android:layout_width="fill_parent"
                 android:layout_height="200dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:layout_marginBottom="20dp"
-                android:contentDescription="TODO" />
+                android:layout_marginBottom="20dp"/>
 
             <Button
                 android:id="@+id/btnOpcion1"

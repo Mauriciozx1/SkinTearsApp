@@ -10,6 +10,8 @@
     <string name="jugar">Iniciar Evaluación</string>
     <string name="resultados">Último Resultado</string>
     <string name="volver">Volver</string>
+    <string name="pdf1">Documento PDF 1</string>
+
     <string name="bienvenida">\Módulo de Evaluaciones, \n\nCompruebe cuanto sabe de Skin Tears...</string>
     <string name="resultado">\¿Intentelo nuevamente? \n\nEn su última evaluación su puntuación fue: </string>
 

@@ -4,8 +4,6 @@ import com.ccu.skintears.fragment.ContenidoMod1Fragment;
 import com.ccu.skintears.fragment.ContenidoMod2Fragment;
 import com.ccu.skintears.fragment.ContenidoMod3Fragment;
 import com.ccu.skintears.fragment.EvaluacionMod1Fragment;
-import com.ccu.skintears.fragment.EvaluacionMod2Fragment;
-import com.ccu.skintears.fragment.EvaluacionMod3Fragment;
 import com.ccu.skintears.fragment.InicioFragment;
 import com.ccu.skintears.fragment.ReconocimientoHeridaFragment;
 import com.ccu.skintears.fragment.TratamientoTipo1Fragment;
@@ -16,16 +14,12 @@ import com.ccu.skintears.R;
 
 import java.util.ArrayList;
 
-/**
- * Created by miki on 7/7/17.
- */
-
 public class Constant {
 
     public static ArrayList<NavMenuModel> getMenuNavigasi(){
         ArrayList<NavMenuModel> menu = new ArrayList<>();
 
-        menu.add(new NavMenuModel("Inicio", R.drawable.ic_beranda, InicioFragment.newInstance("¡Bienvenido!")));
+        menu.add(new NavMenuModel("Inicio", R.drawable.ic_home, InicioFragment.newInstance("¡Bienvenido!")));
 
         menu.add(new NavMenuModel("Contenidos", R.drawable.ic_book,
                 new ArrayList<NavMenuModel.SubMenuModel>() {{

@@ -11,10 +11,6 @@ import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup;
 import com.thoughtbot.expandablerecyclerview.viewholders.GroupViewHolder;
 
 
-/**
- * Created by miki on 7/7/17.
- */
-
 public class TitleViewHolder extends GroupViewHolder{
     private TextView titleView;
     private String titleString;
