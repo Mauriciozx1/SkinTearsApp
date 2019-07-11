@@ -11,7 +11,7 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="80dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         android:src="@drawable/skin_tears_logo" />
 
@@ -20,24 +20,23 @@
         android:id="@+id/TextIn1"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:layout_marginTop="350dp"
+        android:layout_marginTop="320dp"
         android:ellipsize="end"
         android:gravity="start"
-        android:lines="7"
+        android:lines="9"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:singleLine="false"
         android:text="@string/welcomeText"
-        android:textSize="20sp" />
+        android:textSize="17sp" />
 
 
     <TextView
         android:id="@+id/TextIn2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@id/TextIn1"
         android:layout_centerHorizontal="true"
-        android:layout_gravity="center"
+        android:layout_marginTop="500dp"
         android:gravity="center"
         android:padding="10dp"
         android:text="@string/sls"
