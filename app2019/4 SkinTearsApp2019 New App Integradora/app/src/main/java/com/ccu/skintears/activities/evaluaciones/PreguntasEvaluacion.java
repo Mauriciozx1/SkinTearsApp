@@ -184,6 +184,8 @@ public class PreguntasEvaluacion extends Activity implements View.OnClickListene
         this.sonPregunta.pause();
     }
 
+
+
     public void modColTamTexto(boolean color, int tamanho) {
         if (color) {
             this.opc1.setBackgroundColor(Color.parseColor(COL_BOTON));
@@ -191,11 +193,16 @@ public class PreguntasEvaluacion extends Activity implements View.OnClickListene
             this.opc3.setBackgroundColor(Color.parseColor(COL_BOTON));
             this.opc4.setBackgroundColor(Color.parseColor(COL_BOTON));
         }
+
         //
         this.opc1.setTextSize(tamanho);
         this.opc2.setTextSize(tamanho);
         this.opc3.setTextSize(tamanho);
         this.opc4.setTextSize(tamanho);
     }
+
+
+
+
 
 }
