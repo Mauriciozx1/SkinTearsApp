@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/4 SkinTearsApp2019 New App Integradora/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/Elliot/.gradle/caches/transforms-2/files-2.1/71c529b3c9b43d60234622bd3360d48c/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "782,852,936,1020,1116,1218,1320",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "847,931,1015,1111,1213,1315,1409"
+                    }
+                },
+                {
+                    "source": "/Users/Elliot/.gradle/caches/transforms-2/files-2.1/ef44d5318c4c9f44aeca736550aab401/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,188,254,317,392,475,545,620,704,782,1066,1141",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,16,17,18",
+                        "endColumns": "66,65,65,62,74,82,69,74,83,77,12,74,74",
+                        "endOffsets": "117,183,249,312,387,470,540,615,699,777,1061,1136,1211"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,19,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,188,254,317,392,475,545,620,704,1414,1698,1773",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,23,24,25",
+                        "endColumns": "66,65,65,62,74,82,69,74,83,77,12,74,74",
+                        "endOffsets": "117,183,249,312,387,470,540,615,699,777,1693,1768,1843"
+                    }
+                }
+            ]
+        }
+    ]
+}
