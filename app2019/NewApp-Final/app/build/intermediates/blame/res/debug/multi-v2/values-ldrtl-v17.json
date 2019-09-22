@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Elliot/Desktop/Android Trivia Games/SI/PDF/APP DEFINITIVA/APP-FINAL/9.8 NavigationDrawer-for-Activities FUNCIONA FULL integra todo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "/Users/Elliot/.gradle/caches/transforms-2/files-2.1/7e9b956930fa5594744993092ee46085/tools-6.10.4/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
