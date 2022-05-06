@@ -1,3 +1,4 @@
+# Buenas gente, acá don Rho haciendo cambios
 # SKINTEARS APP.
 
 Aplicación para Proyecto de Título, de la carrera de Ingeniería en Computación e informática.

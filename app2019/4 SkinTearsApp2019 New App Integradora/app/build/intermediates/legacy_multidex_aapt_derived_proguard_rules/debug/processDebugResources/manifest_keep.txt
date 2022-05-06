@@ -1,4 +1,0 @@
-# Referenced at /Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/4 SkinTearsApp2019 New App Integradora/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:17
--keep class android.support.v4.app.CoreComponentFactory { <init>(); }
-# Referenced at /Users/Elliot/Documents/GitHub/SkinTearsApp/app2019/4 SkinTearsApp2019 New App Integradora/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:17
--keep class com.ccu.skintears.activities.evaluaciones.Utilidad { <init>(); }
